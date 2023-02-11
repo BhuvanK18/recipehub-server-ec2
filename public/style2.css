@@ -1,0 +1,53 @@
+/* the index page css  */
+body {
+	background-image: url(https://i.imgur.com/KV7rJR8.png);
+	font-family: Arial, Verdana, Sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-family: "Lucida Console", Monospace;
+}
+
+nav,
+nav a {
+	text-align: center;
+	font-size: 1.03em;
+	color: black;
+	text-decoration: none;
+	word-spacing: 50px;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #779ECB;
+}
+
+
+
+#homePagebox {
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	height: 500px;
+	background-color: white;
+	box-shadow: 0 2px 2px 2px #888888;
+}
+
+#burger {
+	text-align: center;
+}
+
+#burger img {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.wrapper {
+	margin: auto;
+	width: 80%;
+}
